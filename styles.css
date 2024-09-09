@@ -19,3 +19,13 @@ footer {
     padding:10px;
     font-size: medium;
 }
+
+ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+  }
+
+hr {
+    width: 50%
+}
